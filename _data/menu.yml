@@ -1,7 +1,10 @@
 - title: About
   url: /about.html
 
-- title: Source
+- title: Blog
+  url: https://github.com/patdryburgh/hitchens
+  
+  - title: CV
   url: https://github.com/patdryburgh/hitchens
 
 - title: Contact
