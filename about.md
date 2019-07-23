@@ -8,7 +8,7 @@ I’m an ardent politics buff, disgruntled movie fanatic, frustrated lover of li
 <figure>
   <img alt="Ayushman Devraj" src="https://pbs.twimg.com/profile_images/1144851947477848064/fRYWiAXe_400x400.jpg" />
   <figcaption>
-    Ayushman Devraj.
+    Ayushman Devraj
   </figcaption>
 </figure>
 
